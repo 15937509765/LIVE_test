@@ -22,6 +22,8 @@
     
     self.view.backgroundColor = [UIColor blueColor];
     
+    self.view.backgroundColor = [UIColor magentaColor];
+    
 }
 
 

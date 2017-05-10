@@ -20,6 +20,8 @@
     
     self.view.backgroundColor = [UIColor redColor];
     
+    self.view.backgroundColor = [UIColor blueColor];
+    
 }
 
 

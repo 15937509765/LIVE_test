@@ -23,6 +23,7 @@
     NSLog(@"test");
     
     NSLog(@"rugo");
+    NSLog(@"rug");
 }
 
 

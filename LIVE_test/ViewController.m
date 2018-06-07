@@ -22,7 +22,7 @@
     
     NSLog(@"test");
     
-    NSLog(@"ruguo");
+    NSLog(@"rugo");
 }
 
 

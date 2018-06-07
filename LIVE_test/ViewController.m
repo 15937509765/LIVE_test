@@ -21,6 +21,8 @@
     self.view.backgroundColor = [UIColor blueColor];
     
     NSLog(@"test");
+    
+    NSLog(@"ruguo");
 }
 
 
